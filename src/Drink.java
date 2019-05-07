@@ -2,7 +2,10 @@ public class Drink {
     String name;
     double prize;
     boolean alcohol;
-    String ingredients;
+    Ingredient ingredient1;
+    Ingredient ingredient2;
+    Ingredient ingredient3;
+
 
 
 
